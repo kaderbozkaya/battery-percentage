@@ -1,0 +1,13 @@
+body {
+    margin: 1rem;
+    padding: 2rem;
+    background-color: rgb(238, 238, 238);
+}
+
+.battery {
+    font-size: 2rem;
+    color: rgb(133, 69, 124)
+}
+h1 {
+    color: rgb(211, 0, 253);
+}
